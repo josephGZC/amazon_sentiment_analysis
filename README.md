@@ -36,7 +36,7 @@ Amazon, the world’s largest online retailer, offers a vast selection of produc
 <a href="#toc">[ back to contents ]</a>
 
 <p align="justify"> 
-This project analyzed <strong>Amazon sales data and customer sentiment</strong> across various product categories using a VADER-based approach. The analyses revealed an average sentiment score of 0.813 (on a -1 to +1 scale) with 72% of products classified as positive, indicating a <strong>generally favorable buyer experience</strong>. A Pearson correlation analysis (r = 0.12) indicated that <strong>customer sentiment is weakly related to price</strong>, emphasizing the importance of product quality and user experience. Certain subcategories, such as battery chargers (electronics) and exhaust fans (home & kitchen), showed negative sentiment, highlighting the need for stricter quality control. Separating products by review volume (≥20k vs. <20k reviews) identified under-marketed but high-quality items, including webcams, power LAN adapters, and tripods, which could benefit from <strong>targeted promotions</strong>. To enhance customer satisfaction and marketplace efficiency, <strong>re-program search ranking algorithms</strong> to prioritize well-rated yet under-marketed products (e.g., Philips GC1905 Steam Iron and Mi 108 cm Full HD Android LED TV) while enforcing <strong>stricter quality measures</strong> for consistently low-rated items (e.g., ENVIE ECR-20 Battery Charger and Fire-Boltt Ninja Calling Smartwatch). Additionally, <strong>policy refinements</strong> should address recurring complaints in low-scoring subcategories, such as streaming clients and data dongles.
+This project analyzed <strong>Amazon sales data and customer sentiment</strong> across various product categories using a lexicon-based approach. The analyses revealed an average sentiment score of 0.813 (on a -1 to +1 scale) with 72% of products classified as positive, indicating a <strong>generally favorable buyer experience</strong>. A Pearson correlation analysis (r = 0.12) indicated that <strong>customer sentiment is weakly related to price</strong>, emphasizing the importance of product quality and user experience. Certain subcategories, such as battery chargers (electronics) and exhaust fans (home & kitchen), showed negative sentiment, highlighting the need for stricter quality control. Separating products by review volume (≥20k vs. <20k reviews) identified under-marketed but high-quality items, including webcams, power LAN adapters, and tripods, which could benefit from <strong>targeted promotions</strong>. To enhance customer satisfaction and marketplace efficiency, <strong>re-program search ranking algorithms</strong> to prioritize well-rated yet under-marketed products (e.g., Philips GC1905 Steam Iron and Mi 108 cm Full HD Android LED TV) while enforcing <strong>stricter quality measures</strong> for consistently low-rated items (e.g., ENVIE ECR-20 Battery Charger and Fire-Boltt Ninja Calling Smartwatch). Additionally, <strong>policy refinements</strong> should address recurring complaints in low-scoring subcategories, such as streaming clients and data dongles.
 </p>
 
 ## 3. Dataset Overview <a name="dataset-overview"></a>  
@@ -126,8 +126,11 @@ The dataset consists of multiple product attributes, including customer reviews,
   - Removed currency symbols and commas to convert price data into numeric format.
 
 - **Category Extraction:**  
-  - Extracted primary and secondary categories from the `category` column using structured indexing.  
-  - Example: `Electronics | Audio Devices`
+  - Truncated long category strings from the `category` column for ease of reading.  
+  **Before:**  
+  `Electronics|HomeAudio|MediaStreamingDevices|StreamingClients`  
+  **After:**  
+  `Electronics | Audio Devices ... | Streaming Clients`
 
 - **Handling Missing Values & Text Standardization:**  
   - Managed missing values to ensure data consistency.  
