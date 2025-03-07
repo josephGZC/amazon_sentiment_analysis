@@ -103,8 +103,7 @@ The dataset consists of multiple product attributes, including customer reviews,
   </tbody>
 </table>
 
-<a name="anchor-clean"></a>
-## Data Cleaning & Preprocessing  
+## Data Cleaning & Preprocessing <a name="anchor-clean"></a>  
 
 - **Converted Price Data:**  
   - Removed currency symbols and commas to convert price data into numeric format.
