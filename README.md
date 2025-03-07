@@ -5,9 +5,9 @@
 - [Background](#project-background)
 - [Executive Summary](#executive-summary)
 - [Dataset Overivew](#dataset-overview)
-- [Data Cleaning and Preprocessing](#data-cleaning-and-preprocessing)
-- [Appendix](#appendix)
-
+- [Data Cleaning and Preprocessing](#data-cleaning)
+- [Sentiment Analysis Approach](#sentiment-analysis)
+- [Insights and Findings](#insights-and-findings)
   
 ## Project Background
 
