@@ -125,7 +125,7 @@ The dataset consists of multiple product attributes, including customer reviews,
 - **Converted Price Data:**  
   - Removed currency symbols and commas to convert price data into numeric format.
 
-- **Category Extraction:**  
+- **Category Truncation:**  
   - Inserted spaces and truncated long category strings from the `category` column for ease of reading.  
     Before: <br>
     `Electronics|HomeAudio|MediaStreamingDevices|StreamingClients` <br>
