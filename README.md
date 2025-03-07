@@ -206,6 +206,10 @@ Products were categorized based on review count:
   - Samsung Galaxy M33 5G (Mystique Green, Emerald Brown)  
   These products have high sentiment but fewer reviews, indicating marketing expansion opportunities.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/57ba7ec1-dbf5-4eae-9a07-0ed4c5efcf3f" width="75%">
+</div>
+
 #### Low Popularity Products
 - Products scoring below -0.5 warrant immediate review:
   - AmazonBasics ABS USB-A to Lightning Cable (3-Ft, White)
@@ -213,6 +217,10 @@ Products were categorized based on review count:
   - Dell MS116 USB Wired Optical Mouse
   - Fire-Boltt Ninja Calling Smartwatch
 - These products require closer scrutiny, as negative sentiment may worsen with increased sales.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/215be2f2-25de-4b60-a301-62671239ad4c" width="75%">
+</div>
 
 ---
 
