@@ -148,7 +148,7 @@ Sentiment analysis was performed on each product’s star rating and review text
   <img src="https://github.com/user-attachments/assets/40142529-75d5-4081-b21b-770928e30bf3" width="90%">
 </div>
 
-### 6.2. Sentiment Score vs. Numerical Variables
+### 6.2. Sentiment Score vs. Numerical Variables <a name="sentiment-numerical"></a>
 - Pearson correlation analysis was performed between Sentiment Score and Actual Price, Discounted Price, Discount Percentage, Rating Count, Rating
 - All price-related factors showed weak or near-zero correlation (0 to 0.1) with sentiment. This suggests that customers prioritize overall product quality and experience over price considerations.
   
@@ -158,7 +158,7 @@ Sentiment analysis was performed on each product’s star rating and review text
 
 ---
 
-### 6.3. Overview: Sentiment and Popularity Across Main Categories
+### 6.3. Highest and Lowest Sentiment Scores Across Product Categories <a name="sentiment-categories"></a>
 The main categories were ranked based on mean sentiment score using a bar chart, with colors representing the number of reviews.
 
 - Highest-rated category:  
@@ -174,7 +174,7 @@ The main categories were ranked based on mean sentiment score using a bar chart,
 
 ---
 
-### 6.4. Sentiment and Popularity Across Subcategories
+### 6.4. Highest and Lowest Sentiment Scores Across Product Subcategories  <a name="sentiment-subcategories"></a>
 Because subcategories vary significantly in review counts, they were analyzed separately:
 
 1. High Review Counts (≥20k reviews):  
@@ -212,7 +212,7 @@ In all cases, color bars represent review volume.
 
 ---
 
-### 6.5. Sentiment and Popularity Across Products
+### 6.5. Highest and Lowest Sentiment Scores Among Individual Products <a name="sentiment-products"></a>
 Products were categorized based on review count:
 - High-review products (≥20k reviews)  
 - Low-review products (<20k reviews)  
@@ -246,7 +246,7 @@ Products were categorized based on review count:
 
 ---
 
-### 6.6. Sentiment Trends Across Products
+### 6.6. Sentiment Trends in Popular vs. Niche Products <a name="popular-products"></a>
 Products were analyzed by popularity, using mean sentiment scores in bar charts.
 
 #### 6.6.1. Most Popular Products
