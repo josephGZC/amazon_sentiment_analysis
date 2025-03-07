@@ -10,6 +10,14 @@
 - [6. Insights Deep-Dive](#insights-deep-dive)
   - [6.1. Sentiment-Overview](#sentiment-overview)
 
+[1. Background](#project-background)
+[2. Executive Summary](#executive-summary)
+[3. Dataset Overivew](#dataset-overview)
+[4. Data Cleaning and Preprocessing](#data-cleaning)
+[5. Sentiment Analysis Approach](#sentiment-analysis)
+[6. Insights Deep-Dive](#insights-deep-dive)
+   [6.1. Sentiment-Overview](#sentiment-overview)
+
 click here: <a href="#anchor-F2">Fig. 2</a>
 to go here: <a name="anchor-F2"></a>
 
