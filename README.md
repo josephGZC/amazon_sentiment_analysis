@@ -2,21 +2,18 @@
 
 ### Table of Contents <a name="toc"></a>
 
-- [1. Background](#project-background)
-- [2. Executive Summary](#executive-summary)
-- [3. Dataset Overivew](#dataset-overview)
-- [4. Data Cleaning and Preprocessing](#data-cleaning)
-- [5. Sentiment Analysis Approach](#sentiment-analysis)
-- [6. Insights Deep-Dive](#insights-deep-dive)
-  - [6.1. Sentiment-Overview](#sentiment-overview)
-
 [1. Background](#project-background) <br>
 [2. Executive Summary](#executive-summary) <br>
 [3. Dataset Overivew](#dataset-overview) <br>
 [4. Data Cleaning and Preprocessing](#data-cleaning) <br>
 [5. Sentiment Analysis Approach](#sentiment-analysis) <br>
 [6. Insights Deep-Dive](#insights-deep-dive) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[6.1. Sentiment-Overview](#sentiment-overview)
+&nbsp;&nbsp;&nbsp;&nbsp;[6.1. Sentiment Overview](#sentiment-overview) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[6.2. Sentiment Score vs. Numerical Variables](#sentiment-numeric) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[6.3. Sentiment and Popularity Across Main Categories](#sentiment-numeric) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[6.4. Sentiment and Popularity Across Subcategories](#sentiment-numeric) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[6.5. Sentiment and Popularity Across Products](#sentiment-numeric) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[6.6. Sentiment Trends Across Products](#sentiment-numeric) <br>
 
 click here: <a href="#anchor-F2">Fig. 2</a>
 to go here: <a name="anchor-F2"></a>
