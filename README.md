@@ -1,5 +1,7 @@
 # Amazon Sales Sentiment Analysis
 
+---
+
 ### Table of Contents <a name="toc"></a>
 
 [1. Background](#project-background) <br>
@@ -14,6 +16,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[6.4. Highest and Lowest Sentiment Scores Across Product Subcategories](#sentiment-subcategories) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[6.5. Highest and Lowest Sentiment Scores Among Individual Products](#sentiment-products) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[6.6. Sentiment Trends in Popular vs. Niche Products](#popular-products) <br>
+
+---
 
 ## 1. Project Background <a name="project-background"></a>  
 <a href="#toc">[ back to contents ]</a>
