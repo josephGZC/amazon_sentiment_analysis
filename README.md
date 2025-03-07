@@ -126,11 +126,9 @@ The dataset consists of multiple product attributes, including customer reviews,
   - Removed currency symbols and commas to convert price data into numeric format.
 
 - **Category Extraction:**  
-  - Truncated long category strings from the `category` column for ease of reading.  
-  **Before:**  
-  `Electronics|HomeAudio|MediaStreamingDevices|StreamingClients`  
-  **After:**  
-  `Electronics | Audio Devices ... | Streaming Clients`
+  - Inserted spaces and truncated long category strings from the `category` column for ease of reading.  
+    Before: `Electronics|HomeAudio|MediaStreamingDevices|StreamingClients`
+    After: `Electronics | Audio Devices ... | Streaming Clients`
 
 - **Handling Missing Values & Text Standardization:**  
   - Managed missing values to ensure data consistency.  
