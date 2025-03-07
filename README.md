@@ -110,3 +110,17 @@ The dataset consists of multiple product attributes, including customer reviews,
   - **After Cleaning (valid rows):** 1,334  
   - **Unique Products:** 1,334  
   - Removed rows with **missing values, incorrect entries, and duplicates**.
+
+
+## Sentiment Analysis Approach
+Sentiment analysis was performed on each product’s star rating and review text, generating a Sentiment Score from -1 (most negative) to +1 (most positive). For easier interpretation, each product was also assigned a Sentiment Category (Positive, Mixed Negative, Neutral, or Mixed Positive) based on the distribution of its rating and textual review. More positive sentiment scores indicate stronger customer satisfaction, while negative scores reflect unfavorable opinions. The following section provides the mean values for each category.
+
+## Insights & Findings
+
+### Sentiment Overview
+- A **Sentiment Score** and **Sentiment Category** were derived from both rating and textual reviews.
+- The **average sentiment score** was **0.813 ± 0.377**, indicating generally positive experiences.
+- **72% of products (962 out of 1,334)** had positive sentiment.
+- Only **~3% of products** registered **mixed-to-negative sentiments**, and none were purely negative.
+
+
