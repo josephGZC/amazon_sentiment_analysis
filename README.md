@@ -117,6 +117,16 @@ Sentiment analysis was performed on each product’s star rating and review text
 
 ## Insights & Findings
 
+### Sentiment Overview
+-  The average sentiment score was 0.813055 ± 0.377, indicating generally positive experiences. 
+-  Positive sentiment was found in 72% (962 out of 1,334) of products.
+-  Only ~3% registered mixed-to-negative sentiments, and none were purely negative.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fcd74e97-1197-423e-afe9-e778ce76c048" width="45%">
+  <img src="https://github.com/user-attachments/assets/d64cfc5b-afe1-4cf2-b22b-32bcaacbf25a" width="45%">
+</div>
+
 ### Sentiment Score vs. Numerical Variables
 Pearson correlation analysis was performed between Sentiment Score and:
 - Actual Price
@@ -213,6 +223,4 @@ Products were analyzed by popularity, using mean sentiment scores in bar charts.
 - These products could benefit from increased promotion.
 
 ---
-
-This Markdown structure ensures **clean readability on GitHub** while **removing all unnecessary bolding** except for section titles. 🚀 Let me know if you need further refinements!
 
