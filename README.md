@@ -14,14 +14,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[6.2. Sentiment Score vs. Numerical Variables](#sentiment-numeric) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[6.3. Highest and Lowest Sentiment Scores Across Product Categories](#sentiment-categories) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[6.4. Highest and Lowest Sentiment Scores Across Product Subcategories](#sentiment-subcategories) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[6.4.1. High Popularity Subcategories](#highpop-subcategories) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[6.4.2. Low Popularity Subcategories](#lowpop-subcategories) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[6.4.1. High Popularity Subcategories](#highpop-subcategories) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[6.4.2. Low Popularity Subcategories](#lowpop-subcategories) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[6.5. Highest and Lowest Sentiment Scores Among Individual Products](#sentiment-products) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[6.5.1. High Popularity Products](#highpop-products) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[6.5.2. Low Popularity Products](#lowpop-products) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[6.5.1. High Popularity Products](#highpop-products) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[6.5.2. Low Popularity Products](#lowpop-products) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[6.6. Sentiment Trends in Popular vs. Niche Products](#popular-products) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[6.6.1. Most Popular Products](#mostpop-products) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[6.6.2. Least Popular Products](#leastpop-products) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[6.6.1. Most Popular Products](#mostpop-products) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[6.6.2. Least Popular Products](#leastpop-products) <br>
 
 ---
 
