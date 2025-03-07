@@ -15,9 +15,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[6.5. Highest and Lowest Sentiment Scores Among Individual Products](#sentiment-products) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[6.6. Sentiment Trends in Popular vs. Niche Products](#popular-products) <br>
 
-click here: <a href="#anchor-F2">Fig. 2</a>
-to go here: <a name="anchor-F2"></a>
-
 ## 1. Project Background <a name="project-background"></a>  
 <a href="#toc">[ back to contents ]</a>
 
