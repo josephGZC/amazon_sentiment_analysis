@@ -103,8 +103,8 @@ The dataset consists of multiple product attributes, including customer reviews,
   </tbody>
 </table>
 
-
-## Data Cleaning & Preprocessing
+<a name="anchor-clean"></a>
+## Data Cleaning & Preprocessing  
 
 - **Converted Price Data:**  
   - Removed currency symbols and commas to convert price data into numeric format.
@@ -117,7 +117,7 @@ The dataset consists of multiple product attributes, including customer reviews,
   - Managed missing values to ensure data consistency.  
   - Standardized review text preprocessing for sentiment analysis.
 
-- **Dataset Size Before & After Cleaning:** <a name="anchor-clean"></a>
+- **Dataset Size Before & After Cleaning:**
   - **Initial Rows:** 1,462  
   - **After Cleaning (valid rows):** 1,334  
   - **Unique Products:** 1,334  
