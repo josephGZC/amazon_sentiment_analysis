@@ -173,7 +173,7 @@ In all cases, color bars represent review volume.
   - Battery Chargers (Electronics) and Exhaust Fans (Home & Kitchen) reflected negative sentiment, signaling quality gaps.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0194f541-6cd3-49c4-9f3c-7b5c256519fc" width="75%">
+  <img src="https://github.com/user-attachments/assets/0194f541-6cd3-49c4-9f3c-7b5c256519fc" width="95%">
 </div>
 
 #### Low Popularity Subcategories
@@ -185,7 +185,7 @@ In all cases, color bars represent review volume.
   - These weak sentiments suggest product quality issues or unmet expectations.
     
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9898a0e6-f3e7-4af7-8c61-05baa5a8ef4f" width="75%">
+  <img src="https://github.com/user-attachments/assets/9898a0e6-f3e7-4af7-8c61-05baa5a8ef4f" width="95%">
 </div>
 
 ---
@@ -207,7 +207,7 @@ Products were categorized based on review count:
   These products have high sentiment but fewer reviews, indicating marketing expansion opportunities.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/57ba7ec1-dbf5-4eae-9a07-0ed4c5efcf3f" width="75%">
+  <img src="https://github.com/user-attachments/assets/57ba7ec1-dbf5-4eae-9a07-0ed4c5efcf3f" width="95%">
 </div>
 
 #### Low Popularity Products
@@ -219,7 +219,7 @@ Products were categorized based on review count:
 - These products require closer scrutiny, as negative sentiment may worsen with increased sales.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/215be2f2-25de-4b60-a301-62671239ad4c" width="75%">
+  <img src="https://github.com/user-attachments/assets/215be2f2-25de-4b60-a301-62671239ad4c" width="95%">
 </div>
 
 ---
@@ -234,10 +234,18 @@ Products were analyzed by popularity, using mean sentiment scores in bar charts.
   - Redmi 9 Active (313,836 reviews)
 - Despite massive review counts, these products maintain sentiment scores above 0.9, indicating high satisfaction despite large user bases.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5055ebb5-0a20-435f-8499-2ba1e95fc14a" width="95%">
+</div>
+
 #### Least Popular Products
 - Each product in this group has under 8 reviews.
 - Most products score above 0.6, implying moderate to positive experiences among the small number of reviewers.
 - These products could benefit from increased promotion.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3ea3c443-fb89-45d7-8e37-706cf1075792" width="95%">
+</div>
 
 ---
 
