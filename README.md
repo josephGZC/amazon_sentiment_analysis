@@ -127,11 +127,7 @@ Sentiment analysis was performed on each product’s star rating and review text
 </div>
 
 ### Sentiment Score vs. Numerical Variables
-Pearson correlation analysis was performed between Sentiment Score and:
-- Actual Price
-- Discounted Price
-- Discount Percentage
-- Rating Count
+Pearson correlation analysis was performed between Sentiment Score and Actual Price, Discounted Price, Discount Percentage, Rating Count, Rating
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3f1a3d50-58c0-45bd-9425-90b02ea135b0" width="75%">
