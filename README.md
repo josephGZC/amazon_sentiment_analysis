@@ -147,7 +147,7 @@ The main categories were ranked based on mean sentiment score using a bar chart,
   - Their large review volumes warrant further breakdown into subcategories.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/801d2990-03cf-4679-ad27-251c31189adc" width="75%">
+  <img src="https://github.com/user-attachments/assets/801d2990-03cf-4679-ad27-251c31189adc" width="85%">
 </div>
 
 ---
