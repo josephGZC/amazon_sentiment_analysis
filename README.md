@@ -20,12 +20,14 @@ Amazon, the world’s largest online retailer, offers a vast selection of produc
 </p>
 
 ## 2. Executive Summary <a name="executive-summary"></a>  
+<a href="#toc">[ back to contents ]</a>
 
 <p align="justify"> 
 This project analyzed <strong>Amazon sales data and customer sentiment</strong> across various product categories using a VADER-based approach. The analyses revealed an average sentiment score of 0.813 (on a -1 to +1 scale) with 72% of products classified as positive, indicating a <strong>generally favorable buyer experience</strong>. A Pearson correlation analysis (r = 0.12) indicated that <strong>customer sentiment is weakly related to price</strong>, emphasizing the importance of product quality and user experience. Certain subcategories, such as battery chargers (electronics) and exhaust fans (home & kitchen), showed negative sentiment, highlighting the need for stricter quality control. Separating products by review volume (≥20k vs. <20k reviews) identified under-marketed but high-quality items, including webcams, power LAN adapters, and tripods, which could benefit from <strong>targeted promotions</strong>. To enhance customer satisfaction and marketplace efficiency, <strong>re-program search ranking algorithms</strong> to prioritize well-rated yet under-marketed products (e.g., Philips GC1905 Steam Iron and Mi 108 cm Full HD Android LED TV) while enforcing <strong>stricter quality measures</strong> for consistently low-rated items (e.g., ENVIE ECR-20 Battery Charger and Fire-Boltt Ninja Calling Smartwatch). Additionally, <strong>policy refinements</strong> should address recurring complaints in low-scoring subcategories, such as streaming clients and data dongles.
 </p>
 
 ## 3. Dataset Overview <a name="dataset-overview"></a>  
+<a href="#toc">[ back to contents ]</a>
 
 The dataset consists of multiple product attributes, including customer reviews, ratings, and pricing details, summarized below:
 
@@ -105,6 +107,7 @@ The dataset consists of multiple product attributes, including customer reviews,
 </table>
 
 ## 4. Data Cleaning & Preprocessing <a name="data-cleaning"></a>  
+<a href="#toc">[ back to contents ]</a>
 
 - **Converted Price Data:**  
   - Removed currency symbols and commas to convert price data into numeric format.
@@ -123,10 +126,13 @@ The dataset consists of multiple product attributes, including customer reviews,
   - **Unique Products:** 1,334  
   - Removed rows with **missing values, incorrect entries, and duplicates**.
 
-## 5. Sentiment Analysis Approach  <a name="sentiment-analysis"></a>  
+## 5. Sentiment Analysis Approach  <a name="sentiment-analysis"></a>
+<a href="#toc">[ back to contents ]</a>
+
 Sentiment analysis was performed on each product’s star rating and review text, generating a Sentiment Score from -1 (most negative) to +1 (most positive). For easier interpretation, each product was also assigned a Sentiment Category (Positive, Mixed Negative, Neutral, or Mixed Positive) based on the distribution of its rating and textual review. More positive sentiment scores indicate stronger customer satisfaction, while negative scores reflect unfavorable opinions. The following section provides the mean values for each category.
 
-## 6. Insights Deep-Dive <a name="insights-deep-dive"></a>  
+## 6. Insights Deep-Dive <a name="insights-deep-dive"></a>
+<a href="#toc">[ back to contents ]</a>
 
 ### 6.1. Sentiment Overview
 -  The average sentiment score was 0.813, indicating generally positive experiences. 
