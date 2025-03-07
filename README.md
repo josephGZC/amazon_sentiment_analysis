@@ -157,8 +157,8 @@ Sentiment analysis was conducted using VADER (Valence Aware Dictionary and Senti
 </div>
 
 ### 6.2. Sentiment Score vs. Numerical Variables <a name="sentiment-numerical"></a> <a href="#toc">[↑]</a>
-- Pearson correlation analysis was performed between Sentiment Score and Actual Price, Discounted Price, Discount Percentage, Rating Count, Rating
-- All price-related factors showed weak or near-zero correlation (0 to 0.1) with sentiment. This suggests that customers prioritize overall product quality and experience over price considerations.
+- A Pearson correlation analysis was conducted to examine the relationship between Sentiment Score and key numerical factors, including Actual Price, Discounted Price, Discount Percentage, Rating Count, and Rating.
+- The results showed that all price-related factors had a weak or near-zero correlation (0 to 0.1) with sentiment, suggesting that customers prioritize product quality and overall experience over pricing considerations.
   
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3f1a3d50-58c0-45bd-9425-90b02ea135b0" width="75%">
