@@ -1,5 +1,14 @@
 # Amazon Sales Sentiment Analysis
 
+### Table of Contents
+
+- [Background](#project-background)
+- [Executive Summary](#executive-summary)
+- [Dataset Overivew](#dataset-overview)
+- [Data Cleaning and Preprocessing](#data-cleaning-and-preprocessing)
+- [Appendix](#appendix)
+
+  
 ## Project Background
 
 <p align="justify"> 
