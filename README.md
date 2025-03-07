@@ -136,7 +136,7 @@ The dataset consists of multiple product attributes, including customer reviews,
   - Two products entries were removed due to missing rating count.
   - One product entry was removed due to non-numeric entry under rating.
   - 128 product entry duplicates were removed.
-  - Initial Rows: 1,462 ; After Cleaning: 1,334  
+  - Initial Rows: 1,462 → After Cleaning: 1,334  
   
 
 ## 5. Sentiment Analysis Approach  <a name="sentiment-analysis"></a>
