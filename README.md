@@ -118,7 +118,6 @@ Sentiment analysis was performed on each product’s star rating and review text
 ## Insights & Findings
 
 ### Sentiment Overview
-- A **Sentiment Score** and **Sentiment Category** were derived from both rating and textual reviews.
 - The **average sentiment score** was **0.813 ± 0.377**, indicating generally positive experiences.
 - **72% of products (962 out of 1,334)** had positive sentiment.
 - Only **~3% of products** registered **mixed-to-negative sentiments**, and none were purely negative.
