@@ -142,7 +142,7 @@ The dataset consists of multiple product attributes, including customer reviews,
 ## 5. Sentiment Analysis Approach  <a name="sentiment-analysis"></a>
 <a href="#toc">[ back to contents ]</a>
 
-Sentiment analysis was performed on each product’s star rating and review text, generating a Sentiment Score from -1 (most negative) to +1 (most positive). For easier interpretation, each product was also assigned a Sentiment Category (Positive, Mixed Negative, Neutral, or Mixed Positive) based on the distribution of its rating and textual review. More positive sentiment scores indicate stronger customer satisfaction, while negative scores reflect unfavorable opinions. The following section provides the mean values for each category.
+Sentiment analysis was conducted using VADER (Valence Aware Dictionary and Sentiment Reasoner), a lexicon- and rule-based tool designed for informal text, making it particularly well-suited for analyzing product reviews and social media posts. Each product's star rating and review text were used to calculate a Sentiment Score, ranging from -1 (most negative) to +1 (most positive). To enhance interpretability, products were also classified into Sentiment Categories: Positive, Mixed Negative, Neutral, or Mixed Positive, based on the distribution of their ratings and textual reviews. Higher sentiment scores indicate greater customer satisfaction, whereas negative scores suggest unfavorable opinions.
 
 ## 6. Insights Deep-Dive <a name="insights-deep-dive"></a>
 <a href="#toc">[ back to contents ]</a>
