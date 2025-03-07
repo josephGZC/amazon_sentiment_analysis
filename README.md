@@ -173,7 +173,7 @@ In all cases, color bars represent review volume.
   - Battery Chargers (Electronics) and Exhaust Fans (Home & Kitchen) reflected negative sentiment, signaling quality gaps.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/5725bfe1-3f2e-460b-907d-cc273f5b837f" width="75%">
+  <img src="https://github.com/user-attachments/assets/0194f541-6cd3-49c4-9f3c-7b5c256519fc" width="75%">
 </div>
 
 #### Low Popularity Subcategories
