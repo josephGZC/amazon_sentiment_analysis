@@ -127,7 +127,7 @@ The dataset consists of multiple product attributes, including customer reviews,
 
 - **Category Extraction:**  
   - Inserted spaces and truncated long category strings from the `category` column for ease of reading.  
-    Before: `Electronics|HomeAudio|MediaStreamingDevices|StreamingClients`
+    Before: `Electronics|HomeAudio|MediaStreamingDevices|StreamingClients` <br>
     After: `Electronics | Audio Devices ... | Streaming Clients`
 
 - **Handling Missing Values & Text Standardization:**  
