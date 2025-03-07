@@ -146,7 +146,7 @@ Sentiment analysis was performed on each product’s star rating and review text
 ## 6. Insights Deep-Dive <a name="insights-deep-dive"></a>
 <a href="#toc">[ back to contents ]</a>
 
-### 6.1. Sentiment Overview <a name="sentiment-overview"></a>
+### 6.1. Sentiment Overview <a name="sentiment-overview"></a> <a href="#toc">[↑]</a>
 -  The average sentiment score was 0.813, indicating generally positive experiences. 
 -  Positive sentiment was found in 72% (962 out of 1,334) of products.
 -  Only ~3% registered mixed-to-negative sentiments, and none were purely negative.
@@ -155,7 +155,7 @@ Sentiment analysis was performed on each product’s star rating and review text
   <img src="https://github.com/user-attachments/assets/40142529-75d5-4081-b21b-770928e30bf3" width="90%">
 </div>
 
-### 6.2. Sentiment Score vs. Numerical Variables <a name="sentiment-numerical"></a>
+### 6.2. Sentiment Score vs. Numerical Variables <a name="sentiment-numerical"></a> <a href="#toc">[↑]</a>
 - Pearson correlation analysis was performed between Sentiment Score and Actual Price, Discounted Price, Discount Percentage, Rating Count, Rating
 - All price-related factors showed weak or near-zero correlation (0 to 0.1) with sentiment. This suggests that customers prioritize overall product quality and experience over price considerations.
   
@@ -165,7 +165,7 @@ Sentiment analysis was performed on each product’s star rating and review text
 
 ---
 
-### 6.3. Highest and Lowest Sentiment Scores Across Product Categories <a name="sentiment-categories"></a>
+### 6.3. Highest and Lowest Sentiment Scores Across Product Categories <a name="sentiment-categories"></a> <a href="#toc">[↑]</a>
 The main categories were ranked based on mean sentiment score using a bar chart, with colors representing the number of reviews.
 
 - Highest-rated category:  
@@ -181,7 +181,7 @@ The main categories were ranked based on mean sentiment score using a bar chart,
 
 ---
 
-### 6.4. Highest and Lowest Sentiment Scores Across Product Subcategories  <a name="sentiment-subcategories"></a>
+### 6.4. Highest and Lowest Sentiment Scores Across Product Subcategories  <a name="sentiment-subcategories"></a> <a href="#toc">[↑]</a>
 Because subcategories vary significantly in review counts, they were analyzed separately:
 
 1. High Review Counts (≥20k reviews):  
@@ -193,7 +193,7 @@ Because subcategories vary significantly in review counts, they were analyzed se
 
 In all cases, color bars represent review volume.
 
-#### 6.4.1. High Popularity Subcategories <a name="highpop-subcategories"></a>
+#### 6.4.1. High Popularity Subcategories <a name="highpop-subcategories"></a> <a href="#toc">[↑]</a>
 - Top 10 subcategories display strong sentiment scores with low variability, suggesting consistent customer satisfaction.
 - Highest performer: Bluetooth Adapters (Computer & Accessories) ranked first, highlighting reliability & popularity.
 - Hidden opportunities:  
@@ -205,7 +205,7 @@ In all cases, color bars represent review volume.
   <img src="https://github.com/user-attachments/assets/0194f541-6cd3-49c4-9f3c-7b5c256519fc" width="95%">
 </div>
 
-#### 6.4.2. Low Popularity Subcategories <a name="lowpop-subcategories"></a>
+#### 6.4.2. Low Popularity Subcategories <a name="lowpop-subcategories"></a> <a href="#toc">[↑]</a>
 - Top 10 low-review subcategories:  
   - Generally minimal differences in sentiment, all scoring relatively well.
   - These subcategories could benefit from better promotion.
