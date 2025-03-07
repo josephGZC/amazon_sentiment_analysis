@@ -10,10 +10,10 @@
 [6. Insights Deep-Dive](#insights-deep-dive) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[6.1. Sentiment Overview](#sentiment-overview) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[6.2. Sentiment Score vs. Numerical Variables](#sentiment-numeric) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[6.3. Sentiment and Popularity Across Main Categories](#sentiment-numeric) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[6.4. Sentiment and Popularity Across Subcategories](#sentiment-numeric) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[6.5. Sentiment and Popularity Across Products](#sentiment-numeric) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[6.6. Sentiment Trends Across Products](#sentiment-numeric) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[6.3. Highest and Lowest Sentiment Scores Across Product Categories](#sentiment-categories) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[6.4. Highest and Lowest Sentiment Scores Across Product Subcategories](#sentiment-subcategories) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[6.5. Highest and Lowest Sentiment Scores Among Individual Products](#sentiment-products) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[6.6. Sentiment Trends in Popular vs. Niche Products](#popular-products) <br>
 
 click here: <a href="#anchor-F2">Fig. 2</a>
 to go here: <a name="anchor-F2"></a>
