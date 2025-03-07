@@ -123,7 +123,7 @@ Sentiment analysis was performed on each product’s star rating and review text
 -  Only ~3% registered mixed-to-negative sentiments, and none were purely negative.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/40142529-75d5-4081-b21b-770928e30bf3" width="45%">
+  <img src="https://github.com/user-attachments/assets/40142529-75d5-4081-b21b-770928e30bf3" width="75%">
 </div>
 
 ### Sentiment Score vs. Numerical Variables
