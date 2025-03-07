@@ -5,10 +5,13 @@
 - [Background](#project-background)
 - [Executive Summary](#executive-summary)
 - [Dataset Overivew](#dataset-overview)
-- [Data Cleaning and Preprocessing](#data-cleaning)
+- [Data Cleaning and Preprocessing](#anchor-clean)
 - [Sentiment Analysis Approach](#sentiment-analysis)
 - [Insights and Findings](#insights-and-findings)
-  
+
+click here: <a href="#anchor-F2">Fig. 2</a>
+to go here: <a name="anchor-F2"></a>
+
 ## Project Background
 
 <p align="justify"> 
@@ -114,7 +117,7 @@ The dataset consists of multiple product attributes, including customer reviews,
   - Managed missing values to ensure data consistency.  
   - Standardized review text preprocessing for sentiment analysis.
 
-- **Dataset Size Before & After Cleaning:**  
+- **Dataset Size Before & After Cleaning:** <a name="anchor-clean"></a>
   - **Initial Rows:** 1,462  
   - **After Cleaning (valid rows):** 1,334  
   - **Unique Products:** 1,334  
