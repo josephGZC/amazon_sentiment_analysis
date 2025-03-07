@@ -1,7 +1,12 @@
-Amazon Sales Sentiment Analysis
-Project Background
-The dataset used in this project was obtained from Kaggle and contains product sales and review data scraped from the official Amazon website for the month of January 2023.
-Our primary focus is the Sentiment Score, a value derived from customer ratings and reviews through VADER (Valence Aware Dictionary and Sentiment Reasoner). VADER is a lexicon- and rule-based tool optimized for informal text, making it well-suited for product reviews and social media posts.
+# Amazon Sales Sentiment Analysis
+
+## Project Background
+Amazon, the world’s largest online retailer, offers a vast selection of products across categories such as electronics, home goods, and office supplies. This analysis, based on January 2023 internal sales and review data, examines customer sentiment trends, identifies product quality concerns, and assesses sentiment correlations with price, discounts, and review volume. The findings guide ranking adjustments, quality control measures, and policy improvements to optimize marketplace efficiency.
+
+## Executive Summary
+
+This project analyzed **Amazon sales data and customer sentiment** across various product categories using a **VADER-based approach**, revealing an **average sentiment score of 0.813 ± 0.377**, with **72% of products classified as positive**. A **Pearson correlation analysis (r = 0.12)** indicated that **customer sentiment is weakly related to price**, emphasizing the importance of **product quality and user experience**. Certain subcategories, such as **battery chargers (electronics) and exhaust fans (home & kitchen)**, showed **negative sentiment**, highlighting the need for **stricter quality control**. Separating products by **review volume (≥20k vs. <20k reviews)** identified **under-marketed but high-quality items**, including **webcams, power LAN adapters, and tripods**, which could benefit from **targeted promotions**. To enhance **customer satisfaction and marketplace efficiency**, **search ranking algorithms should prioritize** well-rated but under-marketed products like the **Philips GC1905 Steam Iron** and **Mi 108 cm Full HD Android LED TV**, while **stricter quality control** should be enforced for consistently low-rated items such as the **ENVIE ECR-20 AA & AAA Battery Charger** and **Fire-Boltt Ninja Calling Smartwatch**. Additionally, **policy refinements** should address **recurring complaints** in **low-scoring subcategories** like **streaming clients (electronics) and data dongles (computers)**.
+
 
 Small Info
 A 2020 study by Al-Natour et al. compared various sentiment analysis approaches, including lexicon-based methods against Amazon’s 100-point rating ground truth. The results indicated that sentiment analysis can be more accurate than straightforward star ratings at capturing user experience.
