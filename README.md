@@ -132,14 +132,12 @@ The dataset consists of multiple product attributes, including customer reviews,
     After: <br>
     `Electronics | Audio Devices ... | Streaming Clients`
 
-- **Handling Missing Values & Text Standardization:**  
-  - Managed missing values to ensure data consistency.  
-  - Standardized review text preprocessing for sentiment analysis.
-
-- **Dataset Size Before & After Cleaning:**
-  - Initial Rows: 1,462  
-  - After Cleaning: 1,334  
-  - Removed rows with missing values, incorrect entries, and duplicates.
+- **Handling Missing and Duplicate Values:**  
+  - Two products entries were removed due to missing rating count.
+  - One product entry was removed due to non-numeric entry under rating.
+  - 128 product entry duplicates were removed.
+  - Initial Rows: 1,462 ; After Cleaning: 1,334  
+  
 
 ## 5. Sentiment Analysis Approach  <a name="sentiment-analysis"></a>
 <a href="#toc">[ back to contents ]</a>
