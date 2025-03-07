@@ -1,5 +1,7 @@
 # Amazon Sales Sentiment Analysis
 
+<a href="https://github.com/josephGZC/amazon_sentiment_analysis/blob/6dad2d54c1dbb987ab4c7e132b318e17b8b1a286/amazon_analysis_output_ColorChange.ipynb" target="_blank">Jupyter Lab Sentiment Analysis</a>
+
 ---
 
 ### Table of Contents <a name="toc"></a>
