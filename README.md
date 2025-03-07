@@ -219,14 +219,14 @@ In all cases, color bars represent review volume.
 
 ---
 
-### 6.5. Highest and Lowest Sentiment Scores Among Individual Products <a name="sentiment-products"></a>
+### 6.5. Highest and Lowest Sentiment Scores Among Individual Products <a name="sentiment-products"></a> <a href="#toc">[ ↑ ]</a>
 Products were categorized based on review count:
 - High-review products (≥20k reviews)  
 - Low-review products (<20k reviews)  
 - Each segment’s top 10 and bottom 10 were examined.  
 - Color bars represent review count.
 
-#### 6.5.1. High Popularity Products <a name="highpop-products"></a>
+#### 6.5.1. High Popularity Products <a name="highpop-products"></a> <a href="#toc">[ ↑ ]</a>
 - Overall strong performance among the top 10 with minimal sentiment variation.
 - Realme Wireless Buds (Yellow) excelled with a high sentiment score despite 200k+ reviews.
 - Potential for growth:  
@@ -239,7 +239,7 @@ Products were categorized based on review count:
   <img src="https://github.com/user-attachments/assets/57ba7ec1-dbf5-4eae-9a07-0ed4c5efcf3f" width="95%">
 </div>
 
-#### 6.5.2. Low Popularity Products <a name="lowpop-products"></a>
+#### 6.5.2. Low Popularity Products <a name="lowpop-products"></a> <a href="#toc">[ ↑ ]</a>
 - Products scoring below -0.5 warrant immediate review:
   - AmazonBasics ABS USB-A to Lightning Cable (3-Ft, White)
   - ENVIE ECR-20 AA & AAA Battery Charger
@@ -253,10 +253,10 @@ Products were categorized based on review count:
 
 ---
 
-### 6.6. Sentiment Trends in Popular vs. Niche Products <a name="popular-products"></a>
+### 6.6. Sentiment Trends in Popular vs. Niche Products <a name="popular-products"></a> <a href="#toc">[ ↑ ]</a>
 Products were analyzed by popularity, using mean sentiment scores in bar charts.
 
-#### 6.6.1. Most Popular Products <a name="mostpop-products"></a>
+#### 6.6.1. Most Popular Products <a name="mostpop-products"></a> <a href="#toc">[ ↑ ]</a>
 - Top 3 most reviewed products:
   - Amazon Basics High-Speed HDMI Cable (426,973 reviews)
   - Boat Bassheads (363,713 reviews)
@@ -267,7 +267,7 @@ Products were analyzed by popularity, using mean sentiment scores in bar charts.
   <img src="https://github.com/user-attachments/assets/5055ebb5-0a20-435f-8499-2ba1e95fc14a" width="95%">
 </div>
 
-#### 6.6.2. Least Popular Products <a name="leastpop-products"></a>
+#### 6.6.2. Least Popular Products <a name="leastpop-products"></a> <a href="#toc">[ ↑ ]</a>
 - Each product in this group has under 8 reviews.
 - Most products score above 0.6, implying moderate to positive experiences among the small number of reviewers.
 - These products could benefit from increased promotion.
