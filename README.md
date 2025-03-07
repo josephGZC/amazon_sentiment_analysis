@@ -127,14 +127,12 @@ Sentiment analysis was performed on each product’s star rating and review text
 </div>
 
 ### Sentiment Score vs. Numerical Variables
-Pearson correlation analysis was performed between Sentiment Score and Actual Price, Discounted Price, Discount Percentage, Rating Count, Rating
-
+- Pearson correlation analysis was performed between Sentiment Score and Actual Price, Discounted Price, Discount Percentage, Rating Count, Rating
+- All price-related factors showed weak or near-zero correlation (0 to 0.1) with sentiment. This suggests that customers prioritize overall product quality and experience over price considerations.
+  
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3f1a3d50-58c0-45bd-9425-90b02ea135b0" width="75%">
 </div>
-
-#### Key Finding:
-All price-related factors showed weak or near-zero correlation (0 to 0.1) with sentiment. This suggests that customers prioritize overall product quality and experience over price considerations.
 
 ---
 
@@ -147,6 +145,10 @@ The main categories were ranked based on mean sentiment score using a bar chart,
   - Computer & Accessories, Electronics, Office Products, and Home Kitchens show high score variability.
   - Despite lower average scores, some items still received extremely positive ratings.
   - Their large review volumes warrant further breakdown into subcategories.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/801d2990-03cf-4679-ad27-251c31189adc" width="75%">
+</div>
 
 ---
 
@@ -170,6 +172,10 @@ In all cases, color bars represent review volume.
 - Improvement needed:  
   - Battery Chargers (Electronics) and Exhaust Fans (Home & Kitchen) reflected negative sentiment, signaling quality gaps.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5725bfe1-3f2e-460b-907d-cc273f5b837f" width="75%">
+</div>
+
 #### Low Popularity Subcategories
 - Top 10 low-review subcategories:  
   - Generally minimal differences in sentiment, all scoring relatively well.
@@ -177,6 +183,10 @@ In all cases, color bars represent review volume.
 - Bottom 10 low-review subcategories:  
   - Streaming Clients (Electronics), Electric Grinders (Home & Kitchen), and Data Cards/Dongles (Computers) each scored below -0.5.
   - These weak sentiments suggest product quality issues or unmet expectations.
+    
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9898a0e6-f3e7-4af7-8c61-05baa5a8ef4f" width="75%">
+</div>
 
 ---
 
