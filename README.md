@@ -193,7 +193,7 @@ Because subcategories vary significantly in review counts, they were analyzed se
 
 In all cases, color bars represent review volume.
 
-#### 6.4.1. High Popularity Subcategories
+#### 6.4.1. High Popularity Subcategories <a name="highpop-subcategories"></a>
 - Top 10 subcategories display strong sentiment scores with low variability, suggesting consistent customer satisfaction.
 - Highest performer: Bluetooth Adapters (Computer & Accessories) ranked first, highlighting reliability & popularity.
 - Hidden opportunities:  
@@ -205,7 +205,7 @@ In all cases, color bars represent review volume.
   <img src="https://github.com/user-attachments/assets/0194f541-6cd3-49c4-9f3c-7b5c256519fc" width="95%">
 </div>
 
-#### 6.4.2. Low Popularity Subcategories
+#### 6.4.2. Low Popularity Subcategories <a name="lowpop-subcategories"></a>
 - Top 10 low-review subcategories:  
   - Generally minimal differences in sentiment, all scoring relatively well.
   - These subcategories could benefit from better promotion.
@@ -226,7 +226,7 @@ Products were categorized based on review count:
 - Each segment’s top 10 and bottom 10 were examined.  
 - Color bars represent review count.
 
-#### 6.5.1. High Popularity Products
+#### 6.5.1. High Popularity Products <a name="highpop-products"></a>
 - Overall strong performance among the top 10 with minimal sentiment variation.
 - Realme Wireless Buds (Yellow) excelled with a high sentiment score despite 200k+ reviews.
 - Potential for growth:  
@@ -239,7 +239,7 @@ Products were categorized based on review count:
   <img src="https://github.com/user-attachments/assets/57ba7ec1-dbf5-4eae-9a07-0ed4c5efcf3f" width="95%">
 </div>
 
-#### 6.5.2. Low Popularity Products
+#### 6.5.2. Low Popularity Products <a name="lowpop-products"></a>
 - Products scoring below -0.5 warrant immediate review:
   - AmazonBasics ABS USB-A to Lightning Cable (3-Ft, White)
   - ENVIE ECR-20 AA & AAA Battery Charger
@@ -256,7 +256,7 @@ Products were categorized based on review count:
 ### 6.6. Sentiment Trends in Popular vs. Niche Products <a name="popular-products"></a>
 Products were analyzed by popularity, using mean sentiment scores in bar charts.
 
-#### 6.6.1. Most Popular Products
+#### 6.6.1. Most Popular Products <a name="mostpop-products"></a>
 - Top 3 most reviewed products:
   - Amazon Basics High-Speed HDMI Cable (426,973 reviews)
   - Boat Bassheads (363,713 reviews)
@@ -267,7 +267,7 @@ Products were analyzed by popularity, using mean sentiment scores in bar charts.
   <img src="https://github.com/user-attachments/assets/5055ebb5-0a20-435f-8499-2ba1e95fc14a" width="95%">
 </div>
 
-#### 6.6.2. Least Popular Products
+#### 6.6.2. Least Popular Products <a name="leastpop-products"></a>
 - Each product in this group has under 8 reviews.
 - Most products score above 0.6, implying moderate to positive experiences among the small number of reviewers.
 - These products could benefit from increased promotion.
