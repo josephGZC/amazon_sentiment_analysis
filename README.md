@@ -122,6 +122,8 @@ Sentiment analysis was performed on each product’s star rating and review text
 - **72% of products (962 out of 1,334)** had positive sentiment.
 - Only **~3% of products** registered **mixed-to-negative sentiments**, and none were purely negative.
 
+---
+
 ### Sentiment Score vs. Numerical Variables
 **Pearson correlation analysis** was performed between **Sentiment Score** and:
 - **Actual Price**
