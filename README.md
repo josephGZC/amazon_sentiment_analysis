@@ -91,3 +91,22 @@ The dataset consists of multiple product attributes, including customer reviews,
   </tbody>
 </table>
 
+
+## Data Cleaning & Preprocessing
+
+- **Converted Price Data:**  
+  - Removed currency symbols and commas to convert price data into numeric format.
+
+- **Category Extraction:**  
+  - Extracted primary and secondary categories from the `category` column using structured indexing.  
+  - **Example:** `Electronics | Audio Devices`
+
+- **Handling Missing Values & Text Standardization:**  
+  - Managed missing values to ensure data consistency.  
+  - Standardized review text preprocessing for sentiment analysis.
+
+- **Dataset Size Before & After Cleaning:**  
+  - **Initial Rows:** 1,462  
+  - **After Cleaning (valid rows):** 1,334  
+  - **Unique Products:** 1,334  
+  - Removed rows with **missing values, incorrect entries, and duplicates**.
