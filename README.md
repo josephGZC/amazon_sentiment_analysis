@@ -114,17 +114,16 @@ The dataset consists of multiple product attributes, including customer reviews,
 
 - **Category Extraction:**  
   - Extracted primary and secondary categories from the `category` column using structured indexing.  
-  - **Example:** `Electronics | Audio Devices`
+  - Example: `Electronics | Audio Devices`
 
 - **Handling Missing Values & Text Standardization:**  
   - Managed missing values to ensure data consistency.  
   - Standardized review text preprocessing for sentiment analysis.
 
 - **Dataset Size Before & After Cleaning:**
-  - **Initial Rows:** 1,462  
-  - **After Cleaning (valid rows):** 1,334  
-  - **Unique Products:** 1,334  
-  - Removed rows with **missing values, incorrect entries, and duplicates**.
+  - Initial Rows: 1,462  
+  - After Cleaning: 1,334  
+  - Removed rows with missing values, incorrect entries, and duplicates.
 
 ## 5. Sentiment Analysis Approach  <a name="sentiment-analysis"></a>
 <a href="#toc">[ back to contents ]</a>
@@ -140,7 +139,7 @@ Sentiment analysis was performed on each product’s star rating and review text
 -  Only ~3% registered mixed-to-negative sentiments, and none were purely negative.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/40142529-75d5-4081-b21b-770928e30bf3" width="75%">
+  <img src="https://github.com/user-attachments/assets/40142529-75d5-4081-b21b-770928e30bf3" width="90%">
 </div>
 
 ### 6.2. Sentiment Score vs. Numerical Variables
