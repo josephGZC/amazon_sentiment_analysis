@@ -8,6 +8,7 @@
 - [4. Data Cleaning and Preprocessing](#data-cleaning)
 - [5. Sentiment Analysis Approach](#sentiment-analysis)
 - [6. Insights Deep-Dive](#insights-deep-dive)
+- - [6.1. Sentiment-Overview](#sentiment-overview)
 
 click here: <a href="#anchor-F2">Fig. 2</a>
 to go here: <a name="anchor-F2"></a>
@@ -133,7 +134,7 @@ Sentiment analysis was performed on each product’s star rating and review text
 ## 6. Insights Deep-Dive <a name="insights-deep-dive"></a>
 <a href="#toc">[ back to contents ]</a>
 
-### 6.1. Sentiment Overview
+### 6.1. Sentiment Overview <a name="sentiment-overview"></a>
 -  The average sentiment score was 0.813, indicating generally positive experiences. 
 -  Positive sentiment was found in 72% (962 out of 1,334) of products.
 -  Only ~3% registered mixed-to-negative sentiments, and none were purely negative.
