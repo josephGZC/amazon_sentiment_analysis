@@ -13,7 +13,6 @@ This project analyzed <strong>Amazon sales data and customer sentiment</strong> 
 </p>
 
 ## Dataset Overview
-## Dataset Overview
 
 The dataset consists of multiple product attributes, including customer reviews, ratings, and pricing details, summarized below:
 
