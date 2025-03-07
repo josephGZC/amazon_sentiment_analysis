@@ -5,7 +5,7 @@
 - [Background](#project-background)
 - [Executive Summary](#executive-summary)
 - [Dataset Overivew](#dataset-overview)
-- [Data Cleaning and Preprocessing](#anchor-clean)
+- [Data Cleaning and Preprocessing](#data-cleaning)
 - [Sentiment Analysis Approach](#sentiment-analysis)
 - [Insights and Findings](#insights-and-findings)
 
@@ -103,7 +103,7 @@ The dataset consists of multiple product attributes, including customer reviews,
   </tbody>
 </table>
 
-## Data Cleaning & Preprocessing <a name="anchor-clean"></a>  
+## Data Cleaning & Preprocessing <a name="data-cleaning"></a>  
 
 - **Converted Price Data:**  
   - Removed currency symbols and commas to convert price data into numeric format.
