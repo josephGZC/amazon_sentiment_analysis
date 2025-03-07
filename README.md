@@ -1,6 +1,6 @@
 # Amazon Sales Sentiment Analysis
 
-### Table of Contents
+### Table of Contents <a name="toc"></a>
 
 - [1. Background](#project-background)
 - [2. Executive Summary](#executive-summary)
@@ -13,6 +13,7 @@ click here: <a href="#anchor-F2">Fig. 2</a>
 to go here: <a name="anchor-F2"></a>
 
 ## 1. Project Background <a name="project-background"></a>  
+<a href="#toc">[back-to-contents]</a>
 
 <p align="justify"> 
 Amazon, the world’s largest online retailer, offers a vast selection of products across categories such as electronics, home goods, and office supplies. This <strong>sentiment analysis</strong>, based on <strong>January 2023</strong> internal sales and review data, examines customer sentiment trends, identifies product quality concerns, and assesses sentiment correlations with price, discounts, and review volume. The findings guide ranking adjustments, quality control measures, and policy improvements to optimize marketplace efficiency.
