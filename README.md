@@ -24,6 +24,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[6.6. Sentiment Trends in Popular vs. Niche Products](#popular-products) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[6.6.1. Most Popular Products](#mostpop-products) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[6.6.2. Least Popular Products](#leastpop-products) <br>
+[7. Recommendations](#recom) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[7.1. Mid-to-High Review Volume (20k–200k), High-Sentiment Products](#highpop-highsent) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[7.2. Low-Review (<20k), High-Sentiment Items](#lowpop-highsent) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[7.3. Stricter Quality Control & Product Improvement](#control) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[7.4. Implementation Notes](#implementation-notes) <br>
 
 ---
 
@@ -311,7 +316,7 @@ Products were analyzed by popularity, using mean sentiment scores in bar charts.
 
 ---
 
-### 7.2. Low-Review (<20k), High-Sentiment Items
+### 7.2. Low-Review (<20k), High-Sentiment Products  
 
 #### Subcategories to Consider
 - **Fountain Pens**
