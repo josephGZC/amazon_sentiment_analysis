@@ -303,18 +303,12 @@ Products were analyzed by popularity, using mean sentiment scores in bar charts.
 - **Samsung Galaxy M33 5G (Mystique Green, Emerald Brown)**
 
 #### Why It Matters
-- These products already have a substantial review base (above 20k) and maintain strong sentiment, but they have yet to achieve “blockbuster” status with 200k+ reviews.
-- Elevating them in search results and promotional campaigns can help tap into their latent potential, moving them closer to top-tier performance.
+These products already have a substantial review base (above 20k) and maintain strong sentiment, but they have yet to achieve “blockbuster” status with 200k+ reviews. Elevating them in search results and promotional campaigns can help tap into their latent potential, moving them closer to top-tier performance.
 
 #### Key Actions
-1. **Targeted Promotions**  
-   - Launch product- or category-specific ads, email campaigns, and homepage features to boost their visibility.  
-   - Encourage cross-promotion where subcategories like Webcams or Memory are spotlighted alongside best-selling accessories.
-
-2. **Refined Search Placement**  
-   - Adjust search algorithms to reward high-sentiment products in the 20k–200k review range, ensuring they appear prominently for relevant keywords.  
-   - Monitor conversion and engagement metrics for these items, dynamically updating placements to maximize growth.
-
+1. **Targeted Promotions.** Launch product- or category-specific ads, email campaigns, and homepage features to boost their visibility. Encourage cross-promotion where subcategories like Webcams or Memory are spotlighted alongside best-selling accessories.
+2. **Refined Search Placement.** Adjust search algorithms to reward high-sentiment products in the 20k–200k review range, ensuring they appear prominently for relevant keywords. Monitor conversion and engagement metrics for these items, dynamically updating placements to maximize growth.
+   
 ---
 
 ### 7.2. Low-Review (<20k), High-Sentiment Products <a name="lowpop-highsent"></a> <a href="#toc">[↑]</a>
@@ -331,18 +325,12 @@ Products were analyzed by popularity, using mean sentiment scores in bar charts.
 - **Camline Elegante Fountain Pen**
 
 #### Why It Matters
-- Though these items have fewer than 20k reviews, they exhibit high sentiment scores, indicating quality and customer satisfaction.
-- With strategic marketing, they could grow substantially, bridging the gap between early positive feedback and broader market adoption.
+Though these items have fewer than 20k reviews, they exhibit high sentiment scores, indicating quality and customer satisfaction. With strategic marketing, they could grow substantially, bridging the gap between early positive feedback and broader market adoption.
 
 #### Key Actions
-1. **Awareness Campaigns**  
-   - Showcase these products in curated lists (e.g., “Top-Rated Essentials”) and utilize newsletters or social media posts to reach new audiences.  
-   - Consider limited-time discounts to encourage trial and accelerate the review collection process.
-
-2. **Partnerships & Bundling**  
-   - Bundle these under-reviewed, high-sentiment products with related high-traffic items (e.g., pairing Espresso Machines with popular coffee bean brands).  
-   - Highlight subcategory benefits (e.g., Fountain Pens for professionals, Tablets for students) in cross-category promotions to draw in complementary buyers.
-
+1. **Awareness Campaigns.** Showcase these products in curated lists (e.g., “Top-Rated Essentials”) and utilize newsletters or social media posts to reach new audiences. Consider limited-time discounts to encourage trial and accelerate the review collection process.
+2. **Partnerships & Bundling.** Bundle these under-reviewed, high-sentiment products with related high-traffic items (e.g., pairing Espresso Machines with popular coffee bean brands). Highlight subcategory benefits (e.g., Fountain Pens for professionals, Tablets for students) in cross-category promotions to draw in complementary buyers.
+   
 ---
 
 ### 7.3. Stricter Quality Control & Product Improvement <a name="control"></a> <a href="#toc">[↑]</a>
@@ -372,17 +360,11 @@ Products were analyzed by popularity, using mean sentiment scores in bar charts.
   - Fire-Boltt Ninja Calling Smartwatch
 
 #### Why It Matters
-- Despite strong sales volumes or established brand presence, these subcategories and products harbor chronic quality or performance issues.
-- Ignoring negative feedback leads to higher return rates, dissatisfied customers, and potential brand damage.
+Despite strong sales volumes or established brand presence, these subcategories and products harbor chronic quality or performance issues. Ignoring negative feedback leads to higher return rates, dissatisfied customers, and potential brand damage.
 
 #### Key Actions
-1. **Focused Product Audits**  
-   - Conduct comprehensive technical evaluations, user feedback analyses, and manufacturer reviews, particularly for high-volume items with negative scores.  
-   - Enforce stricter production standards and supplier accountability to mitigate recurring complaints.
-
-2. **Rapid Response & Remediation**  
-   - Immediately address items scoring below –0.5 sentiment, prioritizing improvements in design, durability, or customer support options.  
-   - Consider removing severely underperforming SKUs from listings until quality issues are resolved.
+1. **Focused Product Audits.** Conduct comprehensive technical evaluations, user feedback analyses, and manufacturer reviews, particularly for high-volume items with negative scores. Enforce stricter production standards and supplier accountability to mitigate recurring complaints.
+2. **Rapid Response & Remediation.** Immediately address items scoring below –0.5 sentiment, prioritizing improvements in design, durability, or customer support options. Consider removing severely underperforming SKUs from listings until quality issues are resolved.
      
 ---
 
