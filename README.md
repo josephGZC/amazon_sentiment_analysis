@@ -286,7 +286,7 @@ Products were analyzed by popularity, using mean sentiment scores in bar charts.
 
 ---
 
-## 7. Recommendations 
+## 7. Recommendations <a name="recom"></a>
 <a href="#toc">[ back to contents ]</a>
 
 ### 7.1. Mid-to-High Review Volume (20k–200k), High-Sentiment Products  <a name="highpop-highsent"></a>  <a href="#toc">[↑]</a>
