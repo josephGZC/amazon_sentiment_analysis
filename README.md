@@ -343,27 +343,27 @@ Products were analyzed by popularity, using mean sentiment scores in bar charts.
 
 #### Subcategories to Consider
 
-##### High-Popularity, Low-Sentiment (Immediate Action)
-- **Battery Chargers (Electronics)**
-- **Exhaust Fans (Home & Kitchen)**
+- **High-Popularity, Low-Sentiment (Immediate Action)**  
+  - Battery Chargers (Electronics)  
+  - Exhaust Fans (Home & Kitchen)
 
-##### Low-Popularity, Low-Sentiment (Action Needed)
-- **Streaming Clients (Electronics)**
-- **Electric Grinders (Home & Kitchen)**
-- **Data Cards/Dongles (Computers)**
+- **Low-Popularity, Low-Sentiment (Action Needed)**  
+  - Streaming Clients (Electronics)  
+  - Electric Grinders (Home & Kitchen)  
+  - Data Cards/Dongles (Computers)
 
 #### Products to Consider
 
-##### High-Popularity
-- **Fire-bolt Earbuds**
-- **Dell MS116 Wired Mouse**
-- **ENVIE ECR-20 Charger Batteries**
+- **High-Popularity**  
+  - Fire-bolt Earbuds  
+  - Dell MS116 Wired Mouse  
+  - ENVIE ECR-20 Charger Batteries
 
-##### Low-Popularity (Below –0.5 Sentiment)
-- **AmazonBasics ABS USB-A to Lightning Cable (3-Ft, White)**
-- **ENVIE ECR-20 AA & AAA Battery Charger**
-- **Dell MS116 USB Wired Optical Mouse**
-- **Fire-Boltt Ninja Calling Smartwatch**
+- **Low-Popularity (Below –0.5 Sentiment)**  
+  - AmazonBasics ABS USB-A to Lightning Cable (3-Ft, White)  
+  - ENVIE ECR-20 AA & AAA Battery Charger  
+  - Dell MS116 USB Wired Optical Mouse  
+  - Fire-Boltt Ninja Calling Smartwatch
 
 #### Why It Matters
 - Despite strong sales volumes or established brand presence, these subcategories and products harbor chronic quality or performance issues.
@@ -377,10 +377,10 @@ Products were analyzed by popularity, using mean sentiment scores in bar charts.
 2. **Rapid Response & Remediation**  
    - Immediately address items scoring below –0.5 sentiment, prioritizing improvements in design, durability, or customer support options.  
    - Consider removing severely underperforming SKUs from listings until quality issues are resolved.
-
+     
 ---
 
-#### Implementation Notes
+### 7.4 Implementation Notes
 
 - **Integration with Search Algorithms**  
   Incorporate both review-volume tiers and sentiment data into the ranking logic. Boost items that demonstrate strong potential for growth or improvement, while de-emphasizing those with persistently negative feedback until issues are resolved.
