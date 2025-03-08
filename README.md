@@ -158,7 +158,7 @@ Sentiment analysis was conducted using VADER (Valence Aware Dictionary and Senti
   <img src="https://github.com/user-attachments/assets/40142529-75d5-4081-b21b-770928e30bf3" width="90%">
 </div>
 
-### 6.2. Sentiment Score vs. Numerical Variables <a name="sentiment-numerical"></a> <a href="#toc">[↑]</a>
+### 6.2. Sentiment Score vs. Numerical Variables <a name="sentiment-numeric"></a> <a href="#toc">[↑]</a>
 - A Pearson correlation analysis was conducted to examine the relationship between Sentiment Score and key numerical factors, including Actual Price, Discounted Price, Discount Percentage, Rating Count, and Rating.
 - The results showed that all price-related factors had a weak or near-zero correlation (0 to 0.1) with sentiment, suggesting that customers prioritize product quality and overall experience over pricing considerations.
   
@@ -281,3 +281,109 @@ Products were analyzed by popularity, using mean sentiment scores in bar charts.
 
 ---
 
+## 7. Recommendations
+
+### 7.1. Mid-to-High Review Volume (20k–200k), High-Sentiment Products
+
+#### Subcategories to Consider
+- **Webcams**
+- **Memory**
+- **Power LAN Adapters**
+- **Tripod Legs**
+
+#### Products to Consider
+- **Philips GC1905 Steam Iron (Blue)**
+- **Mi 108 cm Full HD Android LED TV 4C**
+- **Samsung Galaxy M33 5G (Mystique Green, Emerald Brown)**
+
+#### Why It Matters
+- These products already have a substantial review base (above 20k) and maintain strong sentiment, but they have yet to achieve “blockbuster” status with 200k+ reviews.
+- Elevating them in search results and promotional campaigns can help tap into their latent potential, moving them closer to top-tier performance.
+
+#### Key Actions
+1. **Targeted Promotions**  
+   - Launch product- or category-specific ads, email campaigns, and homepage features to boost their visibility.  
+   - Encourage cross-promotion where subcategories like Webcams or Memory are spotlighted alongside best-selling accessories.
+
+2. **Refined Search Placement**  
+   - Adjust search algorithms to reward high-sentiment products in the 20k–200k review range, ensuring they appear prominently for relevant keywords.  
+   - Monitor conversion and engagement metrics for these items, dynamically updating placements to maximize growth.
+
+---
+
+### 7.2. Low-Review (<20k), High-Sentiment Items
+
+#### Subcategories to Consider
+- **Fountain Pens**
+- **Tablets**
+- **Espresso Machines**
+- **Coffee Presses**
+
+#### Products to Consider
+- **Egate i9 Pro-Max**
+- **American Micronic**
+- **Camline Elegante Fountain Pen**
+
+#### Why It Matters
+- Though these items have fewer than 20k reviews, they exhibit high sentiment scores, indicating quality and customer satisfaction.
+- With strategic marketing, they could grow substantially, bridging the gap between early positive feedback and broader market adoption.
+
+#### Key Actions
+1. **Awareness Campaigns**  
+   - Showcase these products in curated lists (e.g., “Top-Rated Essentials”) and utilize newsletters or social media posts to reach new audiences.  
+   - Consider limited-time discounts to encourage trial and accelerate the review collection process.
+
+2. **Partnerships & Bundling**  
+   - Bundle these under-reviewed, high-sentiment products with related high-traffic items (e.g., pairing Espresso Machines with popular coffee bean brands).  
+   - Highlight subcategory benefits (e.g., Fountain Pens for professionals, Tablets for students) in cross-category promotions to draw in complementary buyers.
+
+---
+
+### 7.3. Stricter Quality Control & Product Improvement
+
+#### Subcategories to Consider
+
+##### High-Popularity, Low-Sentiment (Immediate Action)
+- **Battery Chargers (Electronics)**
+- **Exhaust Fans (Home & Kitchen)**
+
+##### Low-Popularity, Low-Sentiment (Action Needed)
+- **Streaming Clients (Electronics)**
+- **Electric Grinders (Home & Kitchen)**
+- **Data Cards/Dongles (Computers)**
+
+#### Products to Consider
+
+##### High-Popularity
+- **Fire-bolt Earbuds**
+- **Dell MS116 Wired Mouse**
+- **ENVIE ECR-20 Charger Batteries**
+
+##### Low-Popularity (Below –0.5 Sentiment)
+- **AmazonBasics ABS USB-A to Lightning Cable (3-Ft, White)**
+- **ENVIE ECR-20 AA & AAA Battery Charger**
+- **Dell MS116 USB Wired Optical Mouse**
+- **Fire-Boltt Ninja Calling Smartwatch**
+
+#### Why It Matters
+- Despite strong sales volumes or established brand presence, these subcategories and products harbor chronic quality or performance issues.
+- Ignoring negative feedback leads to higher return rates, dissatisfied customers, and potential brand damage.
+
+#### Key Actions
+1. **Focused Product Audits**  
+   - Conduct comprehensive technical evaluations, user feedback analyses, and manufacturer reviews, particularly for high-volume items with negative scores.  
+   - Enforce stricter production standards and supplier accountability to mitigate recurring complaints.
+
+2. **Rapid Response & Remediation**  
+   - Immediately address items scoring below –0.5 sentiment, prioritizing improvements in design, durability, or customer support options.  
+   - Consider removing severely underperforming SKUs from listings until quality issues are resolved.
+
+---
+
+#### Implementation Notes
+
+- **Integration with Search Algorithms**  
+  Incorporate both review-volume tiers and sentiment data into the ranking logic. Boost items that demonstrate strong potential for growth or improvement, while de-emphasizing those with persistently negative feedback until issues are resolved.
+
+- **Cross-Functional Collaboration**  
+  Coordinate with marketing, product management, and supplier relations teams to ensure these recommendations translate into measurable actions—such as promotional campaigns, product design overhauls, or updated return policies.
