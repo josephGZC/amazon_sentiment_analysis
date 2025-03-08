@@ -286,9 +286,10 @@ Products were analyzed by popularity, using mean sentiment scores in bar charts.
 
 ---
 
-## 7. Recommendations
+## 7. Recommendations 
+<a href="#toc">[ back to contents ]</a>
 
-### 7.1. Mid-to-High Review Volume (20k–200k), High-Sentiment Products
+### 7.1. Mid-to-High Review Volume (20k–200k), High-Sentiment Products  <a name="highpop-highsent"></a>  <a href="#toc">[↑]</a>
 
 #### Subcategories to Consider
 - **Webcams**
@@ -316,7 +317,7 @@ Products were analyzed by popularity, using mean sentiment scores in bar charts.
 
 ---
 
-### 7.2. Low-Review (<20k), High-Sentiment Products  
+### 7.2. Low-Review (<20k), High-Sentiment Products <a name="lowpop-highsent"></a> <a href="#toc">[↑]</a>
 
 #### Subcategories to Consider
 - **Fountain Pens**
@@ -344,7 +345,7 @@ Products were analyzed by popularity, using mean sentiment scores in bar charts.
 
 ---
 
-### 7.3. Stricter Quality Control & Product Improvement
+### 7.3. Stricter Quality Control & Product Improvement <a name="control"></a> <a href="#toc">[↑]</a>
 
 #### Subcategories to Consider
 
@@ -385,7 +386,7 @@ Products were analyzed by popularity, using mean sentiment scores in bar charts.
      
 ---
 
-### 7.4 Implementation Notes
+### 7.4 Implementation Notes <a name="implementation-notes"></a> <a href="#toc">[↑]</a>
 
 - **Integration with Search Algorithms**  
   Incorporate both review-volume tiers and sentiment data into the ranking logic. Boost items that demonstrate strong potential for growth or improvement, while de-emphasizing those with persistently negative feedback until issues are resolved.
