@@ -135,9 +135,9 @@ The dataset consists of multiple product attributes, including customer reviews,
 - **Category Truncation:**  
   - Inserted spaces and truncated long category strings from the `category` column for ease of reading.  
     Before: <br>
-    `Electronics|HomeAudio|MediaStreamingDevices|StreamingClients` <br>
+`Electronics|HomeAudio|MediaStreamingDevices|StreamingClients` <br>
     After: <br>
-    `Electronics | Audio Devices ... | Streaming Clients`
+`Electronics | Audio Devices ... | Streaming Clients`
 
 - **Handling Missing and Duplicate Values:**  
   - Two products entries were removed due to missing rating count.
